@@ -1,0 +1,8 @@
+prefix=/home/cire2022/CIRE2022/catkin_ws/devel
+
+Name: exercises
+Description: Description of exercises
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
