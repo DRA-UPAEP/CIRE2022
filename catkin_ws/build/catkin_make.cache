@@ -1,0 +1,2 @@
+bring_up:exercises:publisher_meta_etapa2
+-DCATKIN_DEVEL_PREFIX=/home/cire2022/CIRE2022/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/cire2022/CIRE2022/catkin_ws/install -G Unix Makefiles

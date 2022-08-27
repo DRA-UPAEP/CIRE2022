@@ -1,0 +1,8 @@
+prefix=/home/cire2022/CIRE2022/catkin_ws/install
+
+Name: publisher_meta_etapa2
+Description: Description of publisher_meta_etapa2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
